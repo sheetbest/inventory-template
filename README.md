@@ -188,7 +188,6 @@ Open `index.html` in your browser to see the inventory system in action.
 ## 📚 Documentation
 
 - [SheetBest API Documentation](https://docs.sheetbest.com)
-- [Google Sheets API](https://developers.google.com/sheets/api)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ## 🤝 Contributing
